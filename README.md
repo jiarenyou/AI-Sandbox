@@ -9,4 +9,4 @@
 
 
 ## Fine tuning
-阿拉伯语deepseek1.5B模型微调
+[阿拉伯语deepseek1.5B模型微调](https://github.com/jiarenyou/AI-Sandbox/blob/main/%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E5%BE%AE%E8%B0%83%E5%AE%9E%E8%B7%B5.ipynb)
