@@ -12,6 +12,8 @@
 
 ## Fine tuning
 1. [阿拉伯语deepseek1.5B模型微调](https://github.com/jiarenyou/AI-Sandbox/blob/main/%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E5%BE%AE%E8%B0%83%E5%AE%9E%E8%B7%B5.ipynb)
+2. [InternLM 论文分类微调实践](https://blog.csdn.net/m0_57280180/article/details/148201393?spm=1011.2124.3001.6209)
+3. [Chat-嬛嬛（复现）](https://www.heywhale.com/org-portal/ubyoo/project/X5jB1PTIC3pUWhCErwPX8QsY9gO5l6iIt282pA1MvaI/share)
 
 ## 机器学习
 1. [Kaggle用户贷款违约预测](https://www.heywhale.com/mw/project/66f8e7ac1002b6d82fe8e394)
